@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 date: 2023-02-25
 venue: 'Chemosphere'
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2023-02-25-paper-diafenthiuron
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'https://academicpages.github.io/files/paper1.pdf'
