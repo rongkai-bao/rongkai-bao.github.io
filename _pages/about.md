@@ -7,43 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+Hello! I'm **Rongkai Bao**, an undergraduate student interested in mathematical biology and computational oncology.
 
-Welcome! I am an undergraduate student interested in **mathematical biology**, **computational oncology**, and **complex systems**.
+My research interests lie at the intersection of mathematics, biology, and medicine. I enjoy building mathematical and computational models to understand how biological systems evolve, with a current focus on hematopoiesis, clonal evolution, and cancer dynamics.
 
-My current research focuses on mathematical and computational modeling of hematopoiesis and cancer evolution. I am particularly interested in understanding how stem cells, clonal competition, and the tissue microenvironment interact across multiple spatial and temporal scales.
+More recently, I have been exploring agent-based models, spatial omics, and digital twin technologies for modeling tissues and diseases.
 
-Recently, I have been exploring:
+I'm always excited to learn new ideas from dynamical systems, probability, and computational biology, and I hope to pursue research that connects mechanistic modeling with real-world biomedical problems.
 
-- Mathematical modeling of hematopoiesis
-- Clonal evolution and cancer evolution
-- Agent-based modeling (ABM)
-- Spatial omics and virtual tissues
-- Digital twins for cancer
-- Complex systems and nonlinear dynamics
-
-My long-term goal is to develop computational models that bridge biological mechanisms with clinical applications, contributing to precision medicine through mechanistic modeling and data integration.
-
----
-
-## Research Interests
-
-- Mathematical Biology
-- Computational Oncology
-- Hematopoiesis
-- Clonal Evolution
-- Agent-Based Modeling
-- Complex Systems
-- Spatial Omics
-- Digital Twins
-
----
-
-## News
-
-- **2026.06** Started building my academic website.
-- **2026.06** Exploring mathematical models of hematopoiesis and virtual cell systems.
-
----
-
-Thank you for visiting my website!
+Feel free to explore my publications, projects, and blog posts. If you are interested in similar topics, I would be happy to connect!
