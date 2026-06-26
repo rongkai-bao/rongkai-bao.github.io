@@ -23,8 +23,8 @@ main:
   #- title: "Projects Sampling"
   #  url: /projects/
         
-  - title: "Blog Posts"  # Hobbies
-    url: /year-archive/
+  - title: "Skills"  # Hobbies
+    url: /skills/
     
   - title: "CV"
     url: /cv/
@@ -32,5 +32,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"  # News
-    url: /markdown/
+  - title: "News"  # News
+    url: /news/
