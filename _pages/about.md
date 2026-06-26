@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm **Rongkai Bao**, an undergraduate student interested in mathematical biology and computational oncology.
+Hello! I'm **Rongkai Bao**, an undergraduate student interested in **leukemia research** and **mathematical oncology**.
 
-My research interests lie at the intersection of mathematics, biology, and medicine. I enjoy building mathematical and computational models to understand how biological systems evolve, with a current focus on hematopoiesis, clonal evolution, and cancer dynamics.
+My research interests lie at the intersection of mathematics, biology, and medicine. I am particularly interested in understanding the mechanisms underlying leukemia initiation, malignant transformation, and disease progression through mathematical and computational modeling.
 
-More recently, I have been exploring agent-based models, spatial omics, and digital twin technologies for modeling tissues and diseases.
+My current work focuses on hematopoiesis, clonal evolution, and cancer dynamics. More recently, I have been exploring agent-based modeling, spatial omics, and digital twin technologies as computational approaches for studying complex biological systems.
 
-I'm always excited to learn new ideas from dynamical systems, probability, and computational biology, and I hope to pursue research that connects mechanistic modeling with real-world biomedical problems.
+I am also interested in dynamical systems, stochastic processes, and computational biology, and I hope to develop mechanistic models that bridge biological discoveries with clinically relevant questions in hematologic malignancies.
 
 Feel free to explore my publications, projects, and blog posts. If you are interested in similar topics, I would be happy to connect!
