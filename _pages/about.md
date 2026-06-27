@@ -16,7 +16,7 @@ I'm **Rongkai Bao (包戎楷)**, a B.Med. student in Clinical Medicine at **Huaq
 ## 📝 Publication
 
 {% include publication.html
-image="https://github.com/rongkai-bao/rongkai-bao.github.io/blob/master/images/ben.jpg"
+image="/images/ben.jpg"
 title="Benfuracarb impairs zebrafish swim bladder development via the JNK2 pathway mediated inhibition of autophagy"
 link="https://pubmed.ncbi.nlm.nih.gov/40082026/"
 authors="Rongkai Bao, Hui Li, Shuqing Li, Menglan Su, Wenhua Li"
