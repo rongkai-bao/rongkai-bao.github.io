@@ -17,14 +17,14 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  #  url: /portfolio/
   
   #- title: "Projects Sampling"
   #  url: /projects/
         
-  - title: "Skills"  # Hobbies
-    url: /skills/
+  #- title: "Skills"  # Hobbies
+  #  url: /skills/
     
   - title: "CV"
     url: /cv/
