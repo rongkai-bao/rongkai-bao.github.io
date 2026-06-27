@@ -20,7 +20,7 @@ image="/image/ben摘要图.jpg"
 title="Benfuracarb impairs zebrafish swim bladder development via the JNK2 pathway mediated inhibition of autophagy"
 link="https://pubmed.ncbi.nlm.nih.gov/40082026/"
 authors="Rongkai Bao, Hui Li, Shuqing Li, Menglan Su, Wenhua Li"
-description="Benfuracarb is widely utilized for crop protection due to its effective pest control properties; however, little information is available regarding its adverse effects and possible molecular mechanisms in fish development. In the present study, benfuracarb exposure caused defects in the development and inflation of the swim bladder, as well as in the lipid metabolism of zebrafish larvae."
+description="In the present study, benfuracarb exposure caused defects in the development and inflation of the swim bladder, as well as in the lipid metabolism of zebrafish larvae."
 %}
 
 ## 🏆 Honors and Awards
