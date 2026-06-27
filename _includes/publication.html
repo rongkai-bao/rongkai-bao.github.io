@@ -1,15 +1,23 @@
-<div class="publication">
+<div style="display:flex;gap:20px;margin:30px 0;">
 
-    <img src="{{ include.image }}">
+<div style="flex:0 0 320px;">
+<img src="{{ include.image }}" style="width:100%;">
+</div>
 
-    <div class="pub-text">
+<div style="flex:1;">
 
-        <h3>{{ include.title }}</h3>
+<h3>
+    <a href="{{ include.link }}">
+    {{ include.title }}
+    </a>
+</h3>
 
-        <p>{{ include.authors }}</p>
+<p>{{ include.authors }}</p>
 
-        <p>{{ include.description }}</p>
+<ul>
+<li>{{ include.description }}</li>
+</ul>
 
-    </div>
+</div>
 
 </div>
