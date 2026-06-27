@@ -1,9 +1,9 @@
 ---
-layout: archive
-title: "About"
-permalink: /about/
+permalink: /
+title: ""
 author_profile: true
-redirect_from:
+redirect_from: 
+  - /about/
   - /about.html
 ---
 
