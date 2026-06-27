@@ -42,7 +42,7 @@ description="This study evaluated the intergenerational effects of chronic paren
 image="/images/dia-water.png"
 title="Embryotoxicity of Diafenthiuron to Zebrafish (Danio rerio) After Advanced Oxidation Treatment"
 link="https://www.mdpi.com/2073-4441/16/23/3478"
-authors="M Su, R Bao, B Gao, X Liao, P Xiao, W Li."
+authors="Su M, Bao R, Gao B, Liao X, Xiao P, Li W."
 description="This study compared diafenthiuron removal efficiencies at a target concentration of 1 µM using three methods: a 4 mg/L ozone (O3) treatment; an ultraviolet (UV) light treatment, applying UV254 radiation with a fluence of 60 mJ/cm2 for 10 min; and a combined O3/UV treatment utilizing ozone and ultraviolet light."
 %}
 
