@@ -11,7 +11,7 @@ redirect_from:
 
 ## 👋 About Me
 
-I'm **Rongkai Bao (包戎楷)**, a B.Med. student in Clinical Medicine at **Huaqiao University** (graduating June 2026), with a strong passion for **translational toxicology**, **computational biology**, and **systems medicine**.
+I'm Rongkai Bao (包戎楷), a B.Med. student in Clinical Medicine at Huaqiao University, with a strong passion for translational research on leukemia, systemic biology and mathematical oncology
 
 ## 📝 Publication
 
@@ -21,6 +21,14 @@ title="Benfuracarb impairs zebrafish swim bladder development via the JNK2 pathw
 link="https://pubmed.ncbi.nlm.nih.gov/40082026/"
 authors="Rongkai Bao, Hui Li, Shuqing Li, Menglan Su, Wenhua Li"
 description="In the present study, benfuracarb exposure caused defects in the development and inflation of the swim bladder, as well as in the lipid metabolism of zebrafish larvae."
+%}
+
+{% include publication.html
+image="https://github.com/rongkai-bao/rongkai-bao.github.io/blob/master/images/ben.jpg"
+title="Advanced oxidation processes for the degradation of tralomethrin: Impacts on zebrafish embryonic development"
+link="https://pubmed.ncbi.nlm.nih.gov/40354744/"
+authors="Yueping Huang, Rongkai Bao, Shanshan Guo, Peng Xiao, Huihui Fu, Wenhua Li"
+description="This study investigated the degradation efficiency of TRA using ultraviolet (UV) irradiation, ozone (O3) oxidation, and a combined O3/UV process."
 %}
 
 ## 🏆 Honors and Awards
@@ -41,5 +49,5 @@ description="In the present study, benfuracarb exposure caused defects in the de
 
 Beyond the lab, I enjoy:
 
-- 🏃 **Sports**: Swimming, Rope skipping, Badminton
-- 🎵 **Drum**: Fusion, Funk and Jazz
+- 🏃Sports: Swimming, Rope skipping, Badminton
+- 🎵Drum: Fusion, Funk and Jazz
