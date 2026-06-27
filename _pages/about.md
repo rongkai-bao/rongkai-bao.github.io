@@ -14,7 +14,6 @@ redirect_from:
 I'm Rongkai Bao (包戎楷), a B.Med. student in Clinical Medicine at Huaqiao University, with a strong passion for translational research on leukemia, systemic biology and mathematical oncology
 
 ## 📝 Publication
-
 {% include publication.html
 image="/images/ben.jpg"
 title="Benfuracarb impairs zebrafish swim bladder development via the JNK2 pathway mediated inhibition of autophagy"
