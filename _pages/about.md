@@ -18,7 +18,7 @@ I'm **Rongkai Bao (包戎楷)**, a B.Med. student in Clinical Medicine at **Huaq
 
 ## 📝 Publication
 {% include publication.html
-image="image/ben摘要图.jpg"
+image="/image/ben摘要图.jpg"
 title="Benfuracarb impairs zebrafish swim bladder development via the JNK2 pathway mediated inhibition of autophagy"
 authors="Rongkai Bao, Hui Li, Shuqing Li, Menglan Su, Wenhua Li"
 description="Benfuracarb is widely utilized for crop protection due to its effective pest control properties; however, little information is available regarding its adverse effects and possible molecular mechanisms in fish development. In the present study, benfuracarb exposure caused defects in the development and inflation of the swim bladder, as well as in the lipid metabolism of zebrafish larvae."
