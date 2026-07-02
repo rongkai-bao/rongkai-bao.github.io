@@ -11,12 +11,9 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Internal Medicine** (Provisionally Admitted)
-  - Capital Medical University, Sept 2026 (Expected)
-  
-* **B.Med. in Clinical Medicine**
-  - Huaqiao University, Sept 2021 - June 2026
-  - CET-6: 513
+* 2026.09 (Expected), Ph.D. Internal Medicine, Capital Medical University (Provisionally Admitted)
+* 2021.09 - 2026.06, B.Med. Clinical Medicine, Huaqiao University
+* 2018.09 - 2021.06, High School. Western Percussion, Xiamen Music School
 
 Publications
 ======
