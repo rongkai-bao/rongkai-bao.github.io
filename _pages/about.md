@@ -11,7 +11,7 @@ redirect_from:
 
 ## 👋 About Me
 
-I'm Rongkai Bao (包戎楷), a B.Med. student in Clinical Medicine at Huaqiao University, with a strong passion for translational research on leukemia, systemic biology and mathematical oncology
+I'm Rongkai Bao (包戎楷), a PhD student in CIMR, with a strong passion for investigating translational research on leukemia based on systemic biology and mathematical oncology
 
 ## 📝 Publication
 {% include publication.html
@@ -62,6 +62,7 @@ description="Our data provide evidence of the developmental toxicity and hepatot
 ## 📖 Educations
 * 2026.09 (Expected), Ph.D. Internal Medicine, Capital Medical University (Provisionally Admitted)
 * 2021.09 - 2026.06, B.Med. Clinical Medicine, Huaqiao University
+* 2018.09 - 2021.06, High School. Western Percussion, Xiamen Music School
 
 ## 🛠️ Training & Clinical Experience
 - 2023.08, [Westlake University](https://en.westlake.edu.cn/), Frontiers of Life Sciences International Undergraduate Summer School, Hangzhou, China
