@@ -18,15 +18,6 @@ I'm Rongkai Bao (包戎楷), a PhD student in CIMR, with a strong passion for in
 * 2021.09 - 2026.06, **B.Med**. Clinical Medicine, Huaqiao University
 * 2018.09 - 2021.06, **High School**. Western Percussion, Xiamen Music School
 
-## 🛠️ Training & Clinical Experience
-- 2023.08, [Westlake University](https://en.westlake.edu.cn/), Frontiers of Life Sciences International Undergraduate Summer School, Hangzhou, China
-- 2024.08, [CIMR](https://www.cimrbj.ac.cn/index.html), Summer Training Program in Medical Sciences, Beijing, China
-- 2025.06 - 2026.06, [Jinjiang City Hospital](https://www.jjsyy.com/), Medical Intern, Fujian, China
-
-## 🎨 Hobbies
-- 🏃Sports: Swimming, Rope skipping, Badminton
-- 🎵Drum: Fusion, Funk and Jazz
-
 ## 📝 Publication
 {% include publication.html
 image="/images/ben.jpg"
@@ -72,4 +63,13 @@ description="Our data provide evidence of the developmental toxicity and hepatot
 * Outstanding Student, Huaqiao University (2021-2022, 2022-2023)
 * First-Class Scholarship, Huaqiao University (2021-2022, 2022-2023)
 * President's Special Award, Huaqiao University (2025)
+
+## 🛠️ Training & Clinical Experience
+- 2023.08, [Westlake University](https://en.westlake.edu.cn/), Frontiers of Life Sciences International Undergraduate Summer School, Hangzhou, China
+- 2024.08, [CIMR](https://www.cimrbj.ac.cn/index.html), Summer Training Program in Medical Sciences, Beijing, China
+- 2025.06 - 2026.06, [Jinjiang City Hospital](https://www.jjsyy.com/), Medical Intern, Fujian, China
+
+## 🎨 Hobbies
+- 🏃Sports: Swimming, Rope skipping, Badminton
+- 🎵Drum: Fusion, Funk and Jazz
 
