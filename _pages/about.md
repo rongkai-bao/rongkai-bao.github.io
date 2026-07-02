@@ -69,7 +69,7 @@ description="Our data provide evidence of the developmental toxicity and hepatot
 - 2024.08, [CIMR](https://www.cimrbj.ac.cn/index.html), Summer Training Program in Medical Sciences, Beijing, China
 - 2025.06 - 2026.06, [Jinjiang City Hospital](https://www.jjsyy.com/), Medical Intern, Fujian, China
 
-## 🎨 Personal Interests & Hobbies
+## 🎨 Hobbies
 
 - 🏃Sports: Swimming, Rope skipping, Badminton
 - 🎵Drum: Fusion, Funk and Jazz
