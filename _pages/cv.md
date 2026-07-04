@@ -23,9 +23,9 @@ Publications
 
 3. **Bao, R.**, Li, H., Li, S., Su, M., & Li, W. (2025). Benfuracarb impairs zebrafish swim bladder development via the JNK2 pathway mediated inhibition of autophagy. *Pesticide Biochemistry and Physiology*, **209**, [cover article]. IF=4.2, JCR Q1
 
-4. Su, M., **Bao, R.**, Wu, Y., Gao, B., Xiao, P., & Li, W. (2023). Diafenthiuron causes developmental toxicity in zebrafish (*Danio rerio*). *Chemosphere*. IF=8.9, JCR Q1
+4. Su, M., **Bao, R.**, Gao, B., Liao, X., Xiao, P., & Li, W. (2024). Embryotoxicity of diafenthiuron to zebrafish (*Danio rerio*) after advanced oxidation treatment. *Water*, **11**(3). IF=3, JCR Q2
 
-5. Su, M., **Bao, R.**, Gao, B., Liao, X., Xiao, P., & Li, W. (2024). Embryotoxicity of diafenthiuron to zebrafish (*Danio rerio*) after advanced oxidation treatment. *Water*, **11**(3). IF=3, JCR Q2
+5. Su, M., **Bao, R.**, Wu, Y., Gao, B., Xiao, P., & Li, W. (2023). Diafenthiuron causes developmental toxicity in zebrafish (*Danio rerio*). *Chemosphere*. IF=8.9, JCR Q1
 
 6. **Bao, R.**, et al. The potential mechanisms of compound xuanju capsule for treating asthenozoospermia. (In preparation)
 
