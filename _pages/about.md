@@ -65,7 +65,7 @@ description="Our data provide evidence of the developmental toxicity and hepatot
 * President's Special Award, Huaqiao University (2025)
 
 ## 🛠️ Training & Clinical Experience
-- 2021.11 - present, [Li LAB](https://faculty.hqu.edu.cn/liwenhua/zh_CN/index.htm), School of Biomedical Sciences, Huaqiao University, Xiamen, China
+- 2021.11 - present, [Li Lab](https://faculty.hqu.edu.cn/liwenhua/zh_CN/index.htm), School of Biomedical Sciences, Huaqiao University, Xiamen, China
 - 2023.08, [Westlake University](https://en.westlake.edu.cn/), Frontiers of Life Sciences International Undergraduate Summer School, Hangzhou, China
 - 2024.08, [CIMR](https://www.cimrbj.ac.cn/index.html), Summer Training Program in Medical Sciences, Beijing, China
 - 2025.06 - 2026.06, [Jinjiang City Hospital](https://www.jjsyy.com/), Medical Intern, Jinjiang, China
