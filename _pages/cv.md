@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* 2026.09 (Expected), Ph.D. Internal Medicine, Capital Medical University (Provisionally Admitted)
-* 2021.09 - 2026.06, B.Med. Clinical Medicine, Huaqiao University
-* 2018.09 - 2021.06, High School. Western Percussion, Xiamen Music School
+* 2026.09 (Expected), **Ph.D**. Internal Medicine, Capital Medical University (Provisionally Admitted)
+* 2021.09 - 2026.06, **B.Med**. Clinical Medicine, Huaqiao University
+* 2018.09 - 2021.06, **High School**. Western Percussion, Xiamen Music School
 
 Publications
 ======
-1. **Bao, R.**, Li, H., Li, S., Su, M., & Li, W. (2025). Benfuracarb impairs zebrafish swim bladder development via the JNK2 pathway mediated inhibition of autophagy. *Pesticide Biochemistry and Physiology*, **209**, [cover article]. IF=4.2, JCR Q1
+1. Xu, Y., Gao, B., **Bao, R.**, Shi, Y., Li, W., & Xiao, P. (2025). Intergenerational effects of parental dimefluthrin and microcystins co-exposure on zebrafish: Impaired embryonic and larval development. *Comparative Biochemistry and Physiology. Toxicology & Pharmacology*. IF=4.3, JCR Q1
 
-2. Su, M., **Bao, R.**, Wu, Y., Gao, B., Xiao, P., & Li, W. (2023). Diafenthiuron causes developmental toxicity in zebrafish (*Danio rerio*). *Chemosphere*. IF=8.9, JCR Q1
+2. Huang, Y., **Bao, R.**, Guo, S., Xiao, P., Fu, H., & Li, W. (2025). Advanced oxidation processes for the degradation of tralomethrin: Impacts on zebrafish embryonic development. *Journal of Environmental Management*. IF=8, JCR Q1
 
-3. Huang, Y., **Bao, R.**, Guo, S., Xiao, P., Fu, H., & Li, W. (2025). Advanced oxidation processes for the degradation of tralomethrin: Impacts on zebrafish embryonic development. *Journal of Environmental Management*. IF=8, JCR Q1
+3. **Bao, R.**, Li, H., Li, S., Su, M., & Li, W. (2025). Benfuracarb impairs zebrafish swim bladder development via the JNK2 pathway mediated inhibition of autophagy. *Pesticide Biochemistry and Physiology*, **209**, [cover article]. IF=4.2, JCR Q1
 
-4. Su, M., **Bao, R.**, Gao, B., Liao, X., Xiao, P., & Li, W. (2024). Embryotoxicity of diafenthiuron to zebrafish (*Danio rerio*) after advanced oxidation treatment. *Water*, **11**(3). IF=3, JCR Q2
+4. Su, M., **Bao, R.**, Wu, Y., Gao, B., Xiao, P., & Li, W. (2023). Diafenthiuron causes developmental toxicity in zebrafish (*Danio rerio*). *Chemosphere*. IF=8.9, JCR Q1
 
-5. Xu, Y., Gao, B., **Bao, R.**, Shi, Y., Li, W., & Xiao, P. (2026). Intergenerational effects of parental dimefluthrin and microcystins co-exposure on zebrafish: Impaired embryonic and larval development. *Comparative Biochemistry and Physiology. Toxicology & Pharmacology*. IF=4.3, JCR Q1
+5. Su, M., **Bao, R.**, Gao, B., Liao, X., Xiao, P., & Li, W. (2024). Embryotoxicity of diafenthiuron to zebrafish (*Danio rerio*) after advanced oxidation treatment. *Water*, **11**(3). IF=3, JCR Q2
 
 6. **Bao, R.**, et al. The potential mechanisms of compound xuanju capsule for treating asthenozoospermia. (In preparation)
 
