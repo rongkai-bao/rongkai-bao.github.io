@@ -96,3 +96,4 @@ Honors & Awards
 * Outstanding Student, Huaqiao University (2021-2022, 2022-2023)
 * First-Class Scholarship, Huaqiao University (2021-2022, 2022-2023)
 * President's Special Award, Huaqiao University (2025)
+* Chen Liying Scholarship and Research Fund, Medical College of Huaqiao University (2026)
