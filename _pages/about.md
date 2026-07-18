@@ -63,7 +63,7 @@ description="Our data provide evidence of the developmental toxicity and hepatot
 * Outstanding Student, Huaqiao University (2021-2022, 2022-2023)
 * First-Class Scholarship, Huaqiao University (2021-2022, 2022-2023)
 * President's Special Award, Huaqiao University (2025)
-* Chen Liying Scholarship and Research Fund, Medical College of Huaqiao University (2026)
+* Chen Liying Scholarship and Research Fund, Medical College of Huaqiao University (2024, 2026)
 
 ## 🛠️ Training & Clinical Experience
 - 2021.11 - present, [Li Lab](https://faculty.hqu.edu.cn/liwenhua/zh_CN/index.htm), School of Biomedical Sciences, Huaqiao University, Xiamen, China
