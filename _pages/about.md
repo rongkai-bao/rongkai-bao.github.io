@@ -70,7 +70,7 @@ description="Our data provide evidence of the developmental toxicity and hepatot
 - 2023.08, [Westlake University](https://en.westlake.edu.cn/), Frontiers of Life Sciences International Undergraduate Summer School, Hangzhou, China
 - 2024.08, [CIMR](https://www.cimrbj.ac.cn/index.html), Summer Training Program in Medical Sciences, Beijing, China
 - 2025.06 - 2026.06, [Jinjiang City Hospital](https://www.jjsyy.com/), Medical Intern, Jinjiang, China
-- 2026.07 - 2026.08, [Westlake University](https://cis.westlake.edu.cn/), [Pebble BioFusion](https://pebble-biofusion.github.io/), Hangzhou, China
+- 2026.07 - 2026.08, [Westlake University](https://pebble-biofusion.github.io/), Pebble BioFusion, Hangzhou, China
 
 ## 🎨 Hobbies
 - 🏃Sports: Swimming, Rope skipping, Badminton
