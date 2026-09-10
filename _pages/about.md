@@ -14,7 +14,7 @@ redirect_from:
 I'm Rongkai Bao (包戎楷), a PhD student in CIMR, with a strong passion for investigating translational research on leukemia based on systemic biology and mathematical oncology
 
 ## 📖 Educations
-* 2026.09 (Expected), **Ph.D**. Internal Medicine, Capital Medical University (Provisionally Admitted)
+* 2026.09 - present, **Ph.D**. Internal Medicine, Capital Medical University
 * 2021.09 - 2026.06, **B.Med**. Clinical Medicine, Huaqiao University
 * 2018.09 - 2021.06, **High School**. Western Percussion, Xiamen Music School
 
@@ -71,6 +71,7 @@ description="Our data provide evidence of the developmental toxicity and hepatot
 - 2024.08, [CIMR](https://www.cimrbj.ac.cn/index.html), Summer Training Program in Medical Sciences, Beijing, China
 - 2025.06 - 2026.06, [Jinjiang City Hospital](https://www.jjsyy.com/), Medical Intern, Jinjiang, China
 - 2026.07, [Westlake University](https://pebble-biofusion.github.io/), Pebble BioFusion Workshop, Hangzhou, China
+- 2026.09 - present, [Zhu Lab](https://cicr.cimrbj.ac.cn/channel/1955834686739714048.html), CIMR, Capital Medical University, Beijing, China
 
 ## 🎨 Hobbies
 - 🏃Sports: Swimming, Rope skipping, Badminton
