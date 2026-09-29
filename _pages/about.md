@@ -20,7 +20,7 @@ I'm Rongkai Bao (包戎楷), a PhD student in CIMR, with a strong passion for in
 
 ## 📝 Publication
 {% include publication.html
-image="/images/anisometropia.jpg"
+image="/images/anisometropia.png"
 title="Hypertension-Associated Anisometropia: Interocular Choroidal and Macular Asymmetry as Potential Mediators"
 link="https://www.medrxiv.org/content/10.64898/2026.09.26.26364065v1"
 authors="Bao R, Zhang W, Lin S, Lin M"
