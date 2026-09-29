@@ -20,6 +20,14 @@ I'm Rongkai Bao (包戎楷), a PhD student in CIMR, with a strong passion for in
 
 ## 📝 Publication
 {% include publication.html
+image="/images/anisometropia.png"
+title="Hypertension-Associated Anisometropia: Interocular Choroidal and Macular Asymmetry as Potential Mediators"
+link="https://www.medrxiv.org/content/10.64898/2026.09.26.26364065v1"
+authors="Bao R, Zhang W, Lin S, Lin M"
+description="Hypertension was associated with anisometropia across two national cohorts. Interocular differences in central macular and choroidal thickness partially mediated this association, suggesting a link between systemic hemodynamic alterations and ocular structural asymmetry."
+%}
+
+{% include publication.html
 image="/images/ben.jpg"
 title="Benfuracarb impairs zebrafish swim bladder development via the JNK2 pathway mediated inhibition of autophagy"
 link="https://pubmed.ncbi.nlm.nih.gov/40082026/"
